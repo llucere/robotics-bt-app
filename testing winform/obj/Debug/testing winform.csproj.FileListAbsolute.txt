@@ -1,0 +1,14 @@
+C:\Users\bryan\source\repos\testing winform\testing winform\bin\Debug\testing winform.exe.config
+C:\Users\bryan\source\repos\testing winform\testing winform\bin\Debug\testing winform.exe
+C:\Users\bryan\source\repos\testing winform\testing winform\bin\Debug\testing winform.pdb
+C:\Users\bryan\source\repos\testing winform\testing winform\bin\Debug\InTheHand.Net.Personal.dll
+C:\Users\bryan\source\repos\testing winform\testing winform\bin\Debug\InTheHand.Net.Personal.xml
+C:\Users\bryan\source\repos\testing winform\testing winform\obj\Debug\testing winform.csproj.AssemblyReference.cache
+C:\Users\bryan\source\repos\testing winform\testing winform\obj\Debug\testing winform.csproj.SuggestedBindingRedirects.cache
+C:\Users\bryan\source\repos\testing winform\testing winform\obj\Debug\testing_winform.Properties.Resources.resources
+C:\Users\bryan\source\repos\testing winform\testing winform\obj\Debug\testing winform.csproj.GenerateResource.cache
+C:\Users\bryan\source\repos\testing winform\testing winform\obj\Debug\testing winform.csproj.CoreCompileInputs.cache
+C:\Users\bryan\source\repos\testing winform\testing winform\obj\Debug\testing winform.csproj.CopyComplete
+C:\Users\bryan\source\repos\testing winform\testing winform\obj\Debug\testing winform.exe
+C:\Users\bryan\source\repos\testing winform\testing winform\obj\Debug\testing winform.pdb
+C:\Users\bryan\source\repos\testing winform\testing winform\obj\Debug\testing_winform.Window.resources
